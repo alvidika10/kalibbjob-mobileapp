@@ -1,0 +1,16 @@
+[
+    {
+        "name": "PT. Pertamina",
+        "companyLogo": "https://static.republika.co.id/uploads/images/inpicture_slide/logo-pertamina-_161201183855-327.jpg",
+        "location": "jakarta",
+        "email": "pertamina@mail.com",
+        "description": "perusahaan yang bergerak pada bidang Migas"
+    },
+    {
+        "name": "Bank Indonesia",
+        "companyLogo": "https://images.genpi.co/uploads/data/images/bank%20indonesia.jpg",
+        "location": "jakarta",
+        "email": "bi@mail.com",
+        "description": "perusahaan yang bergerak pada keuangan"
+    }
+]

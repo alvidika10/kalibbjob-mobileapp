@@ -1,0 +1,12 @@
+[
+    {
+        "jobId": 1,
+        "name": "javascript",
+        "level": "beginner"
+    },
+    {
+        "jobId": 2,
+        "name": "html",
+        "level": "beginner"
+    }
+]
